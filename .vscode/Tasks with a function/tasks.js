@@ -37,9 +37,25 @@
 
 //1️⃣ Функция за поздрав
 // Задача: Направи функция, която приема име и връща поздрав.
+// function greet(name) {
+//   return "Здравей," + name + "!";
+// }
+// console.log(greet("stoy"));
+
+// 2️⃣ Функция за умножение
+// Задача: Направи функция, която приема две числа и ги умножава.
+// function multiply(a, b) {
+//   return a * b;
+// }
+// console.log(multiply(3, 6));
+
+//1️⃣ Функция за поздрав
+// Задача: Направи функция, която приема име и връща поздрав.
+
 function greet(name) {
-  return "Здравей," + name + "!";
+  return "Здарвей," + name + "!";
 }
+
 console.log(greet("stoy"));
 
 // 2️⃣ Функция за умножение
@@ -47,4 +63,4 @@ console.log(greet("stoy"));
 function multiply(a, b) {
   return a * b;
 }
-console.log(multiply(3, 6));
+console.log(multiply(7, 9));
