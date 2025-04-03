@@ -120,19 +120,19 @@ console.log(multiply(2, 5));
 
 // 3️⃣ Функция за проверка дали число е положително
 // Задача: Направи функция, която казва дали дадено число е положително или отрицателно.
-function checkNumber(num) {
-  return num >= 0 ? "Положително" : "Отрицателно";
-}
+// function checkNumber(num) {
+//   return num >= 0 ? "Положително" : "Отрицателно";
+// }
 
-console.log(checkNumber(55));
+// console.log(checkNumber(55));
 
 // 4️⃣ Функция за смятане на площ на правоъгълник
 // Задача: Направи функция, която приема ширина и височина и връща площта.
-function area(width, height) {
-  return width * height;
-}
+// function area(width, height) {
+//   return width * height;
+// }
 
-console.log(area(3, 5));
+// console.log(area(3, 5));
 
 // 3️⃣ Функция за проверка дали число е положително
 // Задача: Направи функция, която казва дали дадено число е положително или отрицателно.
