@@ -170,7 +170,7 @@ if (age >= 13) {
 let birthday = true;
 
 if (birthday) {
-  console.log("🎂Happy birthday!");
+  console.log("🎉Happy birthday!");
 } else {
   console.log("Have a nice day!");
 }
