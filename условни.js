@@ -115,6 +115,13 @@ if (число % 2 === 0) {
 
 //✅ 5. Проверка на любим цвят
 // 🧠 Задача: Ако цветът е "син", покажи "Хубав избор!".
+// let color = "blue";
+
+// if (color === "blue") {
+//   console.log("Nice choice!");
+// } else {
+//   console.log("And this color is cool!");
+// }
 let color = "blue";
 
 if (color === "blue") {
