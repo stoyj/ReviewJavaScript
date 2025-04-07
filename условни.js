@@ -144,14 +144,14 @@ if (temperature < 10) {
 // } else {
 //   console.log("Keep trying!");
 // }
-let assessment = 5;
+let assessment = 6;
 
-if (assessment === 6) {
+if (assessment === 7) {
   console.log("Excellent!");
 } else if (assessment === 5) {
-  console.log("Very good!");
+  console.log("Very good");
 } else {
-  console.log("Keep trying");
+  console.log("Keep trying!");
 }
 
 //✅ 8. Познай числото
