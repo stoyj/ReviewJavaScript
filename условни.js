@@ -135,18 +135,9 @@ if (temperature < 10) {
 
 // ✅ 7. Колко е оценката?
 // 🧠 Задача: Ако оценката е 6 – "Отлично!", ако е 5 – "Много добре", иначе – "Продължавай да се стараеш!"
-// let assessment = 5;
+let assessment = 5;
 
-// if (assessment === 6) {
-//   console.log("Excellent!");
-// } else if (assessment === 5) {
-//   console.log("Very good");
-// } else {
-//   console.log("Keep trying!");
-// }
-let assessment = 4;
-
-if (assessment === 3) {
+if (assessment === 6) {
   console.log("Excellent!");
 } else if (assessment === 5) {
   console.log("Very good");
@@ -156,6 +147,13 @@ if (assessment === 3) {
 
 //✅ 8. Познай числото
 // 🧠 Задача: Ако въведеното число е равно на 7, покажи "Поздравления!".
+// let enteredNumber = 7;
+
+// if (enteredNumber === 7) {
+//   console.log("Congratulations! You guessed the number!");
+// } else {
+//   console.log("Try again");
+// }
 let enteredNumber = 7;
 
 if (enteredNumber === 7) {
