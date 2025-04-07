@@ -125,14 +125,7 @@ if (color === "blue") {
 
 //✅ 6. Какво да облека?
 // 🧠 Задача: Ако е под 10 градуса, кажи "Облечи яке", иначе "Облечи тениска".
-// let temperature = 5;
-
-// if (temperature < 10) {
-//   console.log("Put on a jacket");
-// } else {
-//   console.log("Put on a T-shirt");
-// }
-let temperature = 6;
+let temperature = 5;
 
 if (temperature < 10) {
   console.log("Put on a jacket");
@@ -142,14 +135,23 @@ if (temperature < 10) {
 
 // ✅ 7. Колко е оценката?
 // 🧠 Задача: Ако оценката е 6 – "Отлично!", ако е 5 – "Много добре", иначе – "Продължавай да се стараеш!"
+// let assessment = 5;
+
+// if (assessment === 6) {
+//   console.log("Excellent!");
+// } else if (assessment === 5) {
+//   console.log("Very good");
+// } else {
+//   console.log("Keep trying!");
+// }
 let assessment = 5;
 
 if (assessment === 6) {
   console.log("Excellent!");
 } else if (assessment === 5) {
-  console.log("Very good");
+  console.log("Very good!");
 } else {
-  console.log("Keep trying!");
+  console.log("Keep trying");
 }
 
 //✅ 8. Познай числото
