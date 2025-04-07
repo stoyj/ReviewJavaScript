@@ -144,9 +144,9 @@ if (temperature < 10) {
 // } else {
 //   console.log("Keep trying!");
 // }
-let assessment = 6;
+let assessment = 4;
 
-if (assessment === 6) {
+if (assessment === 4) {
   console.log("Excellent!");
 } else if (assessment === 5) {
   console.log("Very good");
