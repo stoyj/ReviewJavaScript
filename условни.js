@@ -115,36 +115,27 @@ if (число % 2 === 0) {
 
 //✅ 5. Проверка на любим цвят
 // 🧠 Задача: Ако цветът е "син", покажи "Хубав избор!".
-// let color = "blue";
-
-// if (color === "blue") {
-//   console.log("Nice choice!");
-// } else {
-//   console.log("And this color is cool!");
-// }
-// let color = "blue";
-
-// if (color === "blue") {
-//   console.log("Nice choice!");
-// } else {
-//   console.log("And this color is cool!");
-// }
-//✅ 5. Проверка на любим цвят
-// 🧠 Задача: Ако цветът е "син", покажи "Хубав избор!".
 let color = "blue";
 
-if (color === "Red") {
+if (color === "blue") {
   console.log("Nice choice!");
 } else {
-  console.log("And this color is cool");
+  console.log("And this color is cool!");
 }
 
 //✅ 6. Какво да облека?
 // 🧠 Задача: Ако е под 10 градуса, кажи "Облечи яке", иначе "Облечи тениска".
+// let temperature = 5;
+
+// if (temperature < 10) {
+//   console.log("Put on a jacket");
+// } else {
+//   console.log("Put on a T-shirt");
+// }
 let temperature = 5;
 
 if (temperature < 10) {
-  console.log("Put on a jacket");
+  console.log("Put on jacket");
 } else {
   console.log("Put on a T-shirt");
 }
