@@ -122,12 +122,21 @@ if (число % 2 === 0) {
 // } else {
 //   console.log("And this color is cool!");
 // }
+// let color = "blue";
+
+// if (color === "blue") {
+//   console.log("Nice choice!");
+// } else {
+//   console.log("And this color is cool!");
+// }
+//✅ 5. Проверка на любим цвят
+// 🧠 Задача: Ако цветът е "син", покажи "Хубав избор!".
 let color = "blue";
 
-if (color === "blue") {
+if (color === "Red") {
   console.log("Nice choice!");
 } else {
-  console.log("And this color is cool!");
+  console.log("And this color is cool");
 }
 
 //✅ 6. Какво да облека?
