@@ -132,10 +132,10 @@ if (color === "blue") {
 // } else {
 //   console.log("Put on a T-shirt");
 // }
-let temperature = 27;
+let temperature = 6;
 
 if (temperature < 10) {
-  console.log("Put on jacket");
+  console.log("Put on a jacket");
 } else {
   console.log("Put on a T-shirt");
 }
