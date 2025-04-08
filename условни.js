@@ -166,7 +166,7 @@ if (enteredNumber === 7) {
 // }
 let age = 13;
 
-if (age >= 18) {
+if (age >= 14) {
   console.log("You can watch the movie.");
 } else {
   console.log("The movie is not suitable for you.");
