@@ -147,16 +147,9 @@ if (assessment === 6) {
 
 //✅ 8. Познай числото
 // 🧠 Задача: Ако въведеното число е равно на 7, покажи "Поздравления!".
-// let enteredNumber = 7;
+let enteredNumber = 7;
 
-// if (enteredNumber === 7) {
-//   console.log("Congratulations! You guessed the number!");
-// } else {
-//   console.log("Try again");
-// }
-let enteredNumber = 10;
-
-if (enteredNumber === 11) {
+if (enteredNumber === 7) {
   console.log("Congratulations! You guessed the number!");
 } else {
   console.log("Try again");
@@ -164,6 +157,13 @@ if (enteredNumber === 11) {
 
 //✅ 9. Проверка дали можеш да гледаш филм
 // 🧠 Задача: Ако възрастта е над 13, можеш да гледаш филма.
+// let age = 12;
+
+// if (age >= 13) {
+//   console.log("You can watch the movie.");
+// } else {
+//   console.log("The movie is not suitable for you.");
+// }
 let age = 12;
 
 if (age >= 13) {
