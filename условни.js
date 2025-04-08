@@ -157,16 +157,9 @@ if (enteredNumber === 7) {
 
 //✅ 9. Проверка дали можеш да гледаш филм
 // 🧠 Задача: Ако възрастта е над 13, можеш да гледаш филма.
-// let age = 12;
+let age = 12;
 
-// if (age >= 13) {
-//   console.log("You can watch the movie.");
-// } else {
-//   console.log("The movie is not suitable for you.");
-// }
-let age = 13;
-
-if (age >= 14) {
+if (age >= 13) {
   console.log("You can watch the movie.");
 } else {
   console.log("The movie is not suitable for you.");
