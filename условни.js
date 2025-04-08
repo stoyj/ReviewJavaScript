@@ -154,9 +154,9 @@ if (assessment === 6) {
 // } else {
 //   console.log("Try again");
 // }
-let enteredNumber = 7;
+let enteredNumber = 3;
 
-if (enteredNumber === 7) {
+if (enteredNumber === 3) {
   console.log("Congratulations! You guessed the number!");
 } else {
   console.log("Try again");
